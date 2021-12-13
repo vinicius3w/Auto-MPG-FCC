@@ -5,15 +5,16 @@ More information at <https://www.freecodecamp.org/news/end-to-end-machine-learni
 
 The series will cover everything from Data Collection to Model Deployment using Flask Web framework on Heroku!
 
-- End-to-End Machine Learning Project Tutorial - Part 1
+- Data Collection and Reading | End-to-End Machine Learning Project Tutorial - Part 1
   - Intro
   - Topics to be covered
   - Data Collection and Reading
-  - Problem StatementEDA
+  - Problem Statement
+  - EDA
   - Outro
-- End-to-End Machine Learning Project Tutorial - Part 2
-- End-to-End Machine Learning Project Tutorial - Part 3
-- End-to-End Machine Learning Project Tutorial - Part 4
+- Data Preparation with Sci-kit learn and Pandas | End-to-End ML Project Tutorial - Part 2
+- Training and Fine-Tuning ML Models with Sklearn | End-to-End Machine Learning Project Tutorial - Part 3
+- Deploying a Trained ML model via Flask on Heroku | End-to-End Machine Learning Project Tutorial - Part 4
 
 Link to the Dataset: <https://archive.ics.uci.edu/ml/datasets/Auto+MPG>
 
