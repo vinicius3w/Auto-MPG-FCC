@@ -25,3 +25,5 @@ My Task CheatSheet: <https://towardsdatascience.com/task-cheatsheet-for-almost-e
 Video on Data Science Portfolio: <https://www.youtube.com/watch?v=_ANbV9lVA-M>
 
 Book for basics of Machine Learning: <http://themlbook.com/wiki/doku.php>
+
+Book for Machine Learning Engineering: <http://www.mlebook.com/wiki/doku.php>
